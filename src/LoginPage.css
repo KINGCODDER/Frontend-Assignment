@@ -1,0 +1,137 @@
+.container-fluid {
+  margin: 23.33px 81px !important;
+  font-family: "Lato", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17.8851px;
+  line-height: 23px;
+  text-align: center;
+}
+
+.nav-link {
+  color: #7f265b !important;
+  margin-left: 54px;
+}
+
+.navbar-brand {
+  color: #7f265b;
+}
+
+.btn-custom {
+  outline: solid #7f265b 2px;
+  border: none;
+  color: #7f265b;
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 21.0271px;
+  padding: 3px 24px;
+}
+
+.btn-custom:hover {
+  background-color: #7f265b;
+  border: none;
+  color: white;
+  outline: #7f265b;
+}
+
+body {
+  background-color: #fee6c9;
+  color: #7f265b;
+}
+
+.btn-custom2 {
+  background-color: #7f265b;
+  border: none;
+  color: white;
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 21.0271px;
+  padding: 3px 24px;
+}
+
+.btn-custom2:hover {
+  border: none;
+  background-color: #fee6c9;
+  color: #7f265b;
+}
+
+.card {
+  margin: 46px 176px;
+  border-radius: 30px;
+  background-color: #fee6c9;
+  border: solid white 5px;
+  height: 600px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.container-box {
+  display: flex;
+  flex-direction: row;
+}
+
+.card-body {
+  padding: 0;
+}
+
+.container-1 {
+  width: 50%;
+  height: auto;
+}
+
+.container-1 img {
+  margin: 44px;
+  margin-top: 44px;
+  margin-bottom: 0;
+}
+
+.container-2 {
+  background-color: white;
+  width: 50%;
+  height: 594px;
+  border-radius: 0 30px 30px 0;
+  padding: 0px;
+  position: relative;
+  left: 4px;
+  padding: 17px;
+}
+
+.top-text {
+  margin-top: 75px;
+}
+
+.button img {
+  size: 10%;
+}
+
+.login-form {
+  margin-top: 100px;
+}
+
+.form-control {
+  /* width: 90%; */
+
+  height: 40px !important;
+  padding: 7px !important;
+}
+
+.btn-custom3 {
+  background-color: #7f265b;
+  border: none;
+  color: white;
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 21.0271px;
+  padding: 3px 24px;
+  margin-top: 25px !important;
+  margin-left: 0 !important;
+  width: 100%;
+}
+
+.btn-custom3:hover {
+  border: none;
+  background-color: white;
+  color: #7f265b;
+}
